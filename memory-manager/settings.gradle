@@ -1,0 +1,3 @@
+rootProject.name = 'QuantumMemoryManager '
+include 'sample_project', 'quantum_memory_manager_library', 'quantum_cloud_shared_files'
+
