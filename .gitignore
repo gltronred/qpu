@@ -1,0 +1,7 @@
+.idea
+build
+.gradle
+quantum_memory_manager_library/build
+sample_project/build
+out
+*~
